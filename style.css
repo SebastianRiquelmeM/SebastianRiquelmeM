@@ -1,0 +1,57 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f4f4f4;
+	color: #333;
+	line-height: 1.6;
+	margin: 0;
+}
+
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 20px;
+	overflow: hidden;
+}
+
+header {
+	text-align: center;
+}
+
+header h1 {
+	margin: 0;
+	color: #333;
+}
+
+header p {
+	font-weight: bold;
+	color: #555;
+}
+
+.profile {
+	display: flex;
+	align-items: center;
+	margin: 20px 0;
+}
+
+.profile img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin-right: 20px;
+}
+
+.profile .info a {
+	display: block;
+	color: #555;
+	text-decoration: none;
+	margin: 5px 0;
+}
+
+.profile .info a:hover {
+	text-decoration: underline;
+}
+
+.technologies,
+.projects {
+	margin: 20px 0;
+}
