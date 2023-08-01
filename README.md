@@ -19,7 +19,7 @@ Soy desarrollador web experimentado en tecnologías backend y frontend, actualme
 
 ### Tecnologías
 
-<p align="center">
+<p>
 Algunos ejemplos de tecnologías con las que he trabajado:
 </p>
 
