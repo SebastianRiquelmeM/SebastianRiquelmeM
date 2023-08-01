@@ -1,7 +1,4 @@
-<!---
-Por favor, considera darle estrella al repositorio si encuentras esto útil de alguna manera
-o si lo usas. Esto me ayuda mucho.
--->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 
 <body style="background-color:WhiteSmoke;">
 
@@ -16,6 +13,34 @@ o si lo usas. Esto me ayuda mucho.
 Hola👋, soy Sebastián Riquelme, Desarrollador Full Stack<br>
 
 Soy desarrollador web experimentado en tecnologías backend y frontend, actualmente estudiando Ingeniería Civil en Informática y Telecomunicaciones. Como desarrollador full stack, aplico mis habilidades en diversos proyectos. Además, como ayudante de profesor en la Universidad Diego Portales, comparto mis conocimientos de desarrollo web, contribuyendo al crecimiento de otros en la área.
+
+<p align="center">
+  <a href="https://sebastianriquelmem.github.io/portafolio/" class="button"><i class="fas fa-briefcase"></i> Mi Portafolio</a>
+  <a href="https://www.linkedin.com/in/sebasti%C3%A1nriquelme/" class="button"><i class="fab fa-linkedin"></i> LinkedIn</a>
+</p>
+
+<style>
+  .button {
+    text-decoration: none;
+    background-color: #464FE5;
+    color: #ffffff;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+
+  .button:hover {
+    background-color: #d3d3d3; /* Color gris claro en hover */
+  }
+
+  .button i {
+    margin-right: 5px;
+  }
+</style>
+
+
 
 ### Tecnologías
 
