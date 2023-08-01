@@ -19,6 +19,10 @@ Soy desarrollador web experimentado en tecnologías backend y frontend, actualme
 
 ### Tecnologías
 
+Algunos ejemplos de tecnologías que he usado recientemente.
+
+```javascript
+
 #### Frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
@@ -55,3 +59,4 @@ Soy desarrollador web experimentado en tecnologías backend y frontend, actualme
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
 </body>
+```
