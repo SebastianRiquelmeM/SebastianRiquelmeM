@@ -15,7 +15,7 @@ Hola👋, soy Sebastián Riquelme, Desarrollador Full Stack<br>
 Soy desarrollador web experimentado en tecnologías backend y frontend, actualmente estudiando Ingeniería Civil en Informática y Telecomunicaciones. Como desarrollador full stack, aplico mis habilidades en diversos proyectos. Además, como ayudante de profesor en la Universidad Diego Portales, comparto mis conocimientos de desarrollo web, contribuyendo al crecimiento de otros en la área.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebasti%C3%A1nriquelme/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-green?style=for-the-badge&logo=portfolio)]([https://sebastianriquelmem.github.io/portafolio/](https://sebastianriquelme.cl/))
+[![Portafolio](https://img.shields.io/badge/Portafolio-green?style=for-the-badge&logo=portfolio)](https://sebastianriquelme.cl/)
 
 ### Tecnologías
 
